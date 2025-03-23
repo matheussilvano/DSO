@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="b7-VyF0SgWxOTYahhtlN-1" value="Amigo" style="shape=rectangle;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="180" y="150" width="120" height="100" as="geometry" />
+          <mxGeometry x="180" y="150" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="b7-VyF0SgWxOTYahhtlN-2" value="- nome: String" vertex="1" parent="b7-VyF0SgWxOTYahhtlN-1">
-          <mxGeometry y="20" width="120" height="20" as="geometry" />
+          <mxGeometry y="22" width="120" height="22" as="geometry" />
         </mxCell>
         <mxCell id="b7-VyF0SgWxOTYahhtlN-3" value="- telefone: String" vertex="1" parent="b7-VyF0SgWxOTYahhtlN-1">
-          <mxGeometry y="40" width="120" height="20" as="geometry" />
+          <mxGeometry y="44" width="120" height="22" as="geometry" />
         </mxCell>
         <mxCell id="b7-VyF0SgWxOTYahhtlN-4" value="- email: String" vertex="1" parent="b7-VyF0SgWxOTYahhtlN-1">
-          <mxGeometry y="60" width="120" height="20" as="geometry" />
+          <mxGeometry y="66" width="120" height="22" as="geometry" />
         </mxCell>
         <mxCell id="b7-VyF0SgWxOTYahhtlN-5" value="Livro" style="shape=rectangle;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="360" y="150" width="180" height="150" as="geometry" />
